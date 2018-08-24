@@ -51,6 +51,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jemoji
 
 # SEO tags
 title: IGarrido awesome blog
