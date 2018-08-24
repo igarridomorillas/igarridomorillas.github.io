@@ -52,6 +52,7 @@ baseurl: ""
 # Plugins section
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 
 
